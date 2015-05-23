@@ -3,7 +3,7 @@
 >Can you make a temp directory?
 
 ans: Yes you can. <br/>
-In the terminal just type `mkdir temp` and it will create a directory named 'temp' in whatever folder you're currently in (the `pwd`)
+In the terminal just type `mkdir tmp` and it will create a directory named 'tmp' in whatever folder you're currently in (the `pwd`)
 
 >Can you make a log directory in your class directory?
 
