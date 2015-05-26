@@ -40,5 +40,5 @@ total 0 <br/>
 drwxr-xr-x@  6 bird  staff  204 May 18 22:44 DaVinci Videos <br/>
 drwxr-xr-x@ 10 bird  staff  340 May 18 20:56 davinci_coders_t2_2015 <br/>
 drwxr-xr-x  11 bird  staff  374 May 16 13:32 pivotal_ide_prefs <br/>
-I'm not sure what the `drwxr-xr-x@  6 bird  staff  204` means -- so I guess I'll look into that: <br/>
+I'm still not 100% sure what the `drwxr-xr-x@  6 bird  staff  204` means -- so I guess I'll look into that; and write a blog post about it. <br/>
 <br/>
