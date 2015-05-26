@@ -11,23 +11,26 @@ Alternative "english" ways of asking for a list of files:<br/>
 
 >What's in the tmp directory?
 
-lets find out; type: `ls /tmp` <br/>
+lets find out; type: `ls tmp` <br/>
 my terminal output:<br/>
-`KSOutOfProcessFetcher.501.IW-ShwaXJwmHlkfc5wb2ZMHOaJY=
-amt3.log` <br/>
-`com.apple.launchd.25YhkaRfVt` <br/>
-`com.apple.launchd.suB1oFhnNm` <br/>
-`swtag.log`
+`iamcool.txt` *naturally* <br/>
+and it should be noted that my `pwd` here is: ~/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises
 
 >Can you show me what files are in that directory?
+
+sure thing: `ls "that directory"` will list for you all the files in 'that directory'.
+
 >What files are in your home directory?
 
-but of course: `ls ~` <br/>
+type: `ls ~` <br/>
 this displays all the files and directories within my home directory...<br/>
 ![alt text](https://github.com/bradley2W1DL/learn_command_line_exercises/blob/master/pics/1__bash_ls~.png "bash for ls ~")
 
-
 >What's in slash temp?
+
+The command to run in order to find that out is: `ls /tmp` <br/>
+this lists everything in the /tmp directory; which for me is... <br/>
+![alt text](https://github.com/bradley2W1DL/learn_command_line_exercises/blob/master/pics/bash_ls_slash-tmp.png "bash for ls /tmp")
 
 ###Comments
 
