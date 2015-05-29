@@ -10,7 +10,7 @@ certainly: `cd ~/workspace/davinci_coders_t2_2015/homework/learn_command_line_ex
 
 >Please go into the temp directory?
 
-depending upon where you are currently you would type: `cd tmp`
+to enter the 'temp' directory you would type: `cd temp`
 
 >Can you go to the slash temp directory?
 
