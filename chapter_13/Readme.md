@@ -29,10 +29,13 @@ displays: <br/>
 
 >Can you show me the contents of database.yml?
 
-type: `cat database.yml` => will show you the entire contents of 'database.yml' file
+type: `cat database.yml` => will show you the entire contents of 'database.yml' file<br/>
+in my case this outputs: `Some Random text`
 
 >What is in your Gemfile?
 
 What indeed? You can find out by typing: `cat Gemfile` into the terminal <br/>
 this will output a list of all your gems with their version and their dependencies <br/>
-I didn't really know about Gemfiles but, "http://stackoverflow.com/questions/14072880/whats-the-use-of-gemfile-in-rails" helped me out
+I didn't really know about Gemfiles but, "http://stackoverflow.com/questions/14072880/whats-the-use-of-gemfile-in-rails" helped me out<br/>
+So in my case, `cat Gemfile` outputs => <br/>`Some more random text`<br/>
+                                        `there should be Gem info in here too`
