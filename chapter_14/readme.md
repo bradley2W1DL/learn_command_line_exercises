@@ -27,7 +27,7 @@ No thanks *(just following instructions)*
 
 >Write in your notebook to be careful when running recursive remove on files.
 
-You have to be careful where you run this command, because the 'recursive' bit implies that the command will run in the<br/>
+You have to be careful where you run this command, because the 'recursive' bit implies that the command will run in the
 directory that you call it in and then again in any subsequent directories and again in their sub-directories; on an on like<br/>
 this until it runs out of directories to empty.  And it will perform this command with a finality that will leave you <br/>
 questioning the very idea that those files existed at all.  This could potentially be a **very** destructive command if<br/>
