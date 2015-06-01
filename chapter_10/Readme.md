@@ -45,7 +45,7 @@ You can check this by calling `ls /tmp` and look for the foo.txt file
 
 >Can you copy .bash_profile in your home directory to the current directory?
 
-if you type: `cp ~/.bash_profile .bash_profile` in the terminal, a copy of the '.bash_profile' will be made <br/>
+if you type: `cp ~/.bash_profile ./` in the terminal, a copy of the '.bash_profile' will be made <br/>
 in your current working directory.
 
 You can check this by simply calling `ls -a` and seeing if the .bash_profile file is in fact there.
