@@ -17,6 +17,16 @@ Yea: `grep -i "bradley berger" *.txt`
 *I have a question here that I haven't quite been able to figure out.  How can I search recursively through a directory<br/>
 tree for my specific search term in all the text files?  I'll keep working on this and try to figure it out.*
 
+I think I figured out a way to do this where I can search through all of my files for .txt files and then search<br/>
+through all of those for my name and print the result into a new file...
+
+`find ~/ -name "*.txt" | xargs grep "Bradley Berger" > name_game.txt`
+
+The first part of this command uses find to look for all the .txt files in my root directory.  It then passes the <br/>
+results to the right side of the pipe where the `xargs` command runs each individual result through the grep command, <br/>
+searching for the string "Bradley Berger".  It then writes all of the files in which it found this string into the <br/>
+'name_game.txt' file.  So if you view name_game you will see every text file in which that specific string can be found.
+
 ###Do More
 
 >Use quotes to find "new file" and "old file" and "This is".
