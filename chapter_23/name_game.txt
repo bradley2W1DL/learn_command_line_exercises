@@ -1,0 +1,5 @@
+/Users/bird//Library/Logs/11111/111111/Log_2014_11_18_18_51_30.txt:Current User:Bradley Berger   
+/Users/bird//Library/Logs/iSkysoft/Video_Converter/Log_2014_11_18_18_51_27.txt:Current User:Bradley Berger   
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_18/tmp/name.txt:Bradley Berger
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/toolbelt-class-t2-2015.txt:Bradley Berger
+/Users/bird//workspace/davinci_coders_t2_2015/my_name.txt:Bradley Berger
