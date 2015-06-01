@@ -1,0 +1,782 @@
+/Users/bird//.rvm/config/displayed-notes.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/arel-6.0.0/History.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/arel-6.0.0/MIT-LICENSE.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/erubis-2.7.0/CHANGES.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/erubis-2.7.0/README.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/loofah-2.0.2/Manifest.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/loofah-2.0.2/MIT-LICENSE.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/mail-2.6.3/Dependencies.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/mime-types-2.5/docs/artistic.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/mime-types-2.5/docs/COPYING.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/mime-types-2.5/Manifest.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/mini_portile-0.6.2/History.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/mini_portile-0.6.2/LICENSE.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/minitest-5.6.1/Manifest.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/nokogiri-1.6.6.2/Manifest.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/nokogiri-1.6.6.2/suppressions/README.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/rack-1.6.1/test/multipart/file1.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/rack-test-0.6.3/History.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/rack-test-0.6.3/MIT-LICENSE.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/rack-test-0.6.3/spec/fixtures/bar.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/rack-test-0.6.3/spec/fixtures/foo.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/rails-dom-testing-1.0.6/LICENSE.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/rails-html-sanitizer-1.0.2/LICENSE.txt
+/Users/bird//.rvm/gems/ruby-2.2.1@rails4/gems/railties-4.2.1/lib/rails/generators/rails/app/templates/public/robots.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/bundle-config.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/bundle-exec.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/bundle-install.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/bundle-package.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/bundle-platform.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/bundle-update.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/bundle.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/lib/bundler/man/gemfile.5.txt
+/Users/bird//.rvm/rubies/ruby-2.2.1/lib/ruby/gems/2.2.0/gems/bundler-1.9.8/man/index.txt
+/Users/bird//.rvm/src/rvm/History.txt
+/Users/bird//.rvm/src/rvm/README.txt
+/Users/bird//.subversion/README.txt
+/Users/bird//.Trash/solarized/putty-colors-solarized/solarized_dark_puttytray.txt
+/Users/bird//.Trash/solarized/putty-colors-solarized/solarized_light_puttytray.txt
+/Users/bird//.Trash/solarized/vim-colors-solarized/doc/togglebg.txt
+/Users/bird//Desktop/Blue.is.the.Warmest.Color/TOP10FILMESESERIES.txt
+/Users/bird//Desktop/FileMaker Pro 12 Advanced/FileMaker Pro 12 Advanced.mpkg/Assisted Install.txt
+/Users/bird//Desktop/FileMaker Pro 12 Advanced/Registration.app/Contents/Resources/pages.txt
+/Users/bird//Desktop/Under.the.Skin.2013.720p.BluRay.H264.AAC-RARBG/RARBG.com.txt
+/Users/bird//Documents/Anki/README.txt
+/Users/bird//Documents/Anki/User 1/deleted.txt
+/Users/bird//Documents/computer_s/Intro_to_CompScience&Programming/6-00-fall-2008/contents/assignments/shapes.txt
+/Users/bird//Documents/computer_s/Intro_to_CompScience&Programming/6-00-fall-2008/contents/assignments/subjects.txt
+/Users/bird//Documents/computer_s/Intro_to_CompScience&Programming/6-00-fall-2008/contents/assignments/words.txt
+/Users/bird//Documents/computer_s/Intro_to_CompScience&Programming/6-00-fall-2008/ReadMe.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/license.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/plugins/akismet/readme.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/plugins/jetpack/modules/contact-form/readme.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/plugins/jetpack/modules/custom-css/custom-css/js/ace/readme.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/plugins/jetpack/modules/sharedaddy/readme.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/plugins/jetpack/readme.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/themes/twentyeleven/license.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/themes/twentyeleven/readme.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-content/themes/twentyten/license.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-includes/images/crystal/license.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-includes/js/plupload/changelog.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-includes/js/plupload/license.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-includes/js/swfupload/license.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-includes/js/tinymce/license.txt
+/Users/bird//Google Drive/ClearEcos/8_26 Backup/htdocs/clearecos_local/wp-includes/js/tinymce/plugins/spellchecker/changelog.txt
+/Users/bird//Library/Application Support/Adobe/Dreamweaver CS5.5/en_US/Configuration/ActiveXNames.txt
+/Users/bird//Library/Application Support/Adobe/Dreamweaver CS5.5/en_US/Configuration/Extensions.txt
+/Users/bird//Library/Application Support/Adobe/Dreamweaver CS5.5/en_US/Configuration/FTPExtensionMapMac.txt
+/Users/bird//Library/Application Support/Adobe/Dreamweaver CS5.5/en_US/Configuration/IceIdList.txt
+/Users/bird//Library/Application Support/Adobe/Dreamweaver CS5.5/en_US/Configuration/Menus/Custom Sets/active set.txt
+/Users/bird//Library/Application Support/Adobe/Dreamweaver CS5.5/en_US/Configuration/Workspace/current.txt
+/Users/bird//Library/Application Support/Adobe/Flash Catalyst CS5.5/configuration/workspace.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/Adobe Custom Dictionary/all/added.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/Adobe Custom Dictionary/all/excluded.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/Adobe Custom Dictionary/eng/added.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/Adobe Custom Dictionary/eng/exceptions.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/ATE Hyphenation Exceptions Dictionary/all/added.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/ATE Hyphenation Exceptions Dictionary/all/excluded.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/ATE Hyphenation Exceptions Dictionary/eng/added.txt
+/Users/bird//Library/Application Support/Adobe/Linguistics/Dictionaries/ATE Hyphenation Exceptions Dictionary/eng/exceptions.txt
+/Users/bird//Library/Application Support/Firefox/Profiles/at1gwloy.default/urlclassifierkey3.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Client_2015.05.10.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Client_2015.05.11.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Client_2015.05.12.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Client_2015.05.15.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Client_2015.05.17.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Client_2015.05.22.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Client_2015.05.30.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Service_2015.05.19.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Service_2015.05.20.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Service_2015.05.21.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Service_2015.05.22.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Service_2015.05.25.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Service_2015.05.27.txt
+/Users/bird//Library/Application Support/Garmin/Express/Logs/Service_2015.05.30.txt
+/Users/bird//Library/Application Support/Google/Chrome/Default/Pepper Data/Shockwave Flash/CacheWritableAdobeRoot/AssetCache/VPZ7U6PR/cacheSize.txt
+/Users/bird//Library/Application Support/iTerm/version.txt
+/Users/bird//Library/Application Support/Librarian/8625C251-12AD-5C82-A654-5A04AD3437FA.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/extensions/shared/log.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/temp/document_io_logring.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/log.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/affDescription.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/changelog.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/license.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_en_AU.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_en_CA.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_en_GB.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_en_GB_thes.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_en_US.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_en_ZA.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_hyph_en_GB.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/README_hyph_en_US.txt
+/Users/bird//Library/Application Support/OpenOffice/4/user/uno_packages/cache/uno_packages/svx7vy1d.tmp_/dict-en.oxt/WordNet_license.txt
+/Users/bird//Library/Application Support/Spotify/Users/1274443303-user/connect-device-id.txt
+/Users/bird//Library/Application Support/Sublime Text 2/Packages/Language - English/README_en_GB.txt
+/Users/bird//Library/Application Support/Sublime Text 2/Packages/Language - English/README_en_US.txt
+/Users/bird//Library/Application Support/SyncServices/Local/clientdata/120c2b27e9ab530b442181ced8799e35b30c85cb/clientname.txt
+/Users/bird//Library/Application Support/SyncServices/Local/clientdata/633a1ba25cb8241bbde44acb603ee1e822cde772/clientname.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/06646826-E54A-4B60-ABB5-5C7F00DB93C7/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/0776EB00-300D-4177-91DA-C802DF6EFA9A/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/0B64F3F0-0571-4677-BB20-7C1D5F900F2D/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/108BCFBA-3B3E-4B93-8C95-590E8C009BC3/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/117C89D0-78CC-4AB9-93E8-AA6EBD51093E/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/1E383757-E0D3-47B9-9866-8703A75EB548/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/2CB7A1C5-C978-470C-917B-7CBE34214071/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/2F23AB86-398B-424D-9139-1113CD1EE55A/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/3ACB2326-5B63-41F5-82EE-339F57A60869/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/53B88218-8E35-4154-BC69-B7E307ADED70/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/57D5CCC6-075B-4863-9E7D-C19F0B0EEB36/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/5A4FCB56-BF1F-4B7A-B0C0-0291E7714248/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/5C34C519-4573-4313-A393-EFD0009AB5CE/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/5F3AE9C8-57C1-4D68-9A17-FC9D47C63996/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/63858F85-7D03-41F3-898F-6D58B383384F/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/6F27B8B4-C2F0-414F-B402-DA9DDF9BAD39/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/7AFFD03B-1C9A-4918-8F72-B636066F775F/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/7E485351-BF6D-4AFD-85E4-962CADA3BA84/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/7FE5EC91-41BD-4F92-93DB-08BC9DE55647/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/94D50017-EFD8-4D0B-A4B5-B988FED326C9/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/9EADA0B2-9D31-4169-82BA-711704DB0560/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/A25C364C-24C3-42EE-81E8-CD1280BDE63D/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/A33FD65C-E2FF-4EB3-94AB-3F8F2A499BA8/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/A540D9C7-6381-4EE6-AB66-AC29571EBBBB/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/A875E720-3B72-44EC-8CE1-D07271647485/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/AB057C64-90C4-4633-9E38-D860A3013343/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/AEF1F56F-F896-44D5-BAB4-0462CF12DC57/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/B36136CA-4512-4D23-B58D-7650491180BB/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/B3E9098F-834C-4C83-987D-64386496DFB0/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/BC0D779C-5454-46AD-B672-DB7442C1DEB5/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/C459FF79-BFC8-4318-9CAA-5504DB2E5C6C/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/CBA90C96-5992-4C40-99A3-DEEA8C913401/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/CCD2D2DF-A342-4F3C-BCC8-1E8822D62F25/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/D514BCFD-7972-4686-A831-4A374A14E2C1/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/E3E49604-C249-45D6-A4C4-077C972D83ED/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/E6DFFD83-2187-4D07-8262-2BFAFBBBBE7F/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/EDDD244B-E299-4172-9E61-93EBABE5C750/snippet.txt
+/Users/bird//Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/51310451/content/F986EFB8-59CB-4F9A-B2B0-B4A4FD3FEA74/snippet.txt
+/Users/bird//Library/Containers/com.skitch.skitch/Data/Library/Application Support/com.skitch.skitch/accounts/www.evernote.com/51310451/applog.txt
+/Users/bird//Library/Containers/com.skitch.skitch/Data/Library/Application Support/com.skitch.skitch/accounts/www.evernote.com/51310451-stashed/applog.txt
+/Users/bird//Library/Containers/com.skitch.skitch/Data/Library/Application Support/com.skitch.skitch/accounts/www.evernote.com/bradley2w1dl/applog.txt
+/Users/bird//Library/Logs/11111/111111/Log/MP_Log_2014_11_18_18_51_30.txt
+/Users/bird//Library/Logs/11111/111111/Log_2014_11_18_18_51_30.txt
+/Users/bird//Library/Logs/iSkysoft/Video_Converter/Log/MP_Log_2014_11_18_18_51_27.txt
+/Users/bird//Library/Logs/iSkysoft/Video_Converter/Log_2014_11_18_18_51_27.txt
+/Users/bird//Library/Logs/RubyMine70/threadDumps-20150520-204512-RM-141.1119/freeze-20150521-215959-5/threadDump-20150521-220000.txt
+/Users/bird//Library/Preferences/Adobe InDesign/Version 7.5/en_US/PlugInConfig.txt
+/Users/bird//Library/Preferences/Adobe Photoshop CS5.1 Settings/PSErrorLog.txt
+/Users/bird//Library/RescueTime.com/log/debug_log.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_01.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_02.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_03.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_04.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_05.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_06.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_07.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_08.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_09.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_10.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_11.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_12.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_12a.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_13.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_14.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_15.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_16.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_17.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_18.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_19.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_20.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_21.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_22.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_23.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_24.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_25.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_26.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_27.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_28.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_29.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_30.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_31.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_32.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_33.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_34.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_35.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_36.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_37.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_38.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_39.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_40.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_41.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_42.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_43.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_44.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_45.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/email/test/data/msg_46.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/idlelib/CREDITS.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/idlelib/extend.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/idlelib/help.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/idlelib/HISTORY.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/idlelib/NEWS.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/idlelib/README.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/idlelib/TODO.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/lib2to3/Grammar.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/lib2to3/PatternGrammar.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/LICENSE.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/big5-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/big5.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/big5hkscs-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/big5hkscs.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/cp949-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/cp949.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/euc_jisx0213-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/euc_jisx0213.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/euc_jp-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/euc_jp.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/euc_kr-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/euc_kr.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/gb18030-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/gb18030.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/gb2312-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/gb2312.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/gbk-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/gbk.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/hz-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/hz.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/iso2022_jp-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/iso2022_jp.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/iso2022_kr-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/iso2022_kr.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/johab-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/johab.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/shift_jis-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/shift_jis.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/shift_jisx0213-utf8.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cjkencodings/shift_jisx0213.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/cmath_testcases.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/exception_hierarchy.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/floating_points.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/formatfloat_testcases.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/ieee754.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/math_testcases.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/test_doctest.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/test_doctest2.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/test_doctest3.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/test_doctest4.txt
+/Users/bird//Python.framework/Versions/2.7/lib/python2.7/test/tokenize_tests.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/about.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/bugs.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/abstract.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/allocation.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/arg.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/bool.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/buffer.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/bytearray.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/capsule.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/cell.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/class.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/cobject.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/code.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/codec.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/complex.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/concrete.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/conversion.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/datetime.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/descriptor.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/dict.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/exceptions.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/file.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/float.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/function.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/gcsupport.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/gen.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/import.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/init.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/int.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/intro.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/iter.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/iterator.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/list.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/long.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/mapping.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/marshal.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/memory.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/method.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/module.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/none.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/number.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/objbuffer.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/object.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/objimpl.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/refcounting.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/reflection.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/sequence.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/set.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/slice.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/string.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/structures.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/sys.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/tuple.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/type.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/typeobj.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/unicode.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/utilities.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/veryhigh.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/c-api/weakref.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/contents.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/copyright.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/apiref.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/builtdist.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/commandref.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/configfile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/examples.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/extending.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/introduction.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/packageindex.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/setupscript.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/sourcedist.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/distutils/uploading.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/extending/building.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/extending/embedding.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/extending/extending.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/extending/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/extending/newtypes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/extending/windows.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/design.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/extending.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/general.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/gui.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/installed.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/library.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/programming.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/faq/windows.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/glossary.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/advocacy.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/cporting.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/curses.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/descriptor.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/doanddont.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/functional.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/logging-cookbook.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/logging.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/pyporting.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/regex.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/sockets.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/sorting.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/unicode.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/urllib2.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/howto/webservers.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/install/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/2to3.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/__builtin__.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/__future__.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/__main__.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/_winreg.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/abc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/aepack.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/aetools.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/aetypes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/aifc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/al.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/allos.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/anydbm.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/archiving.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/argparse.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/array.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ast.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/asynchat.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/asyncore.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/atexit.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/audioop.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/autogil.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/base64.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/basehttpserver.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/bastion.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/bdb.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/binascii.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/binhex.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/bisect.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/bsddb.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/bz2.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/calendar.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/carbon.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cd.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cgi.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cgihttpserver.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cgitb.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/chunk.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cmath.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cmd.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/code.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/codecs.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/codeop.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/collections.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/colorpicker.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/colorsys.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/commands.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/compileall.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/compiler.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/configparser.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/constants.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/contextlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cookie.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/cookielib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/copy.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/copy_reg.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/crypt.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/crypto.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/csv.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ctypes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/curses.ascii.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/curses.panel.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/curses.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/custominterp.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/datatypes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/datetime.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dbhash.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dbm.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/debug.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/decimal.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/development.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/difflib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dircache.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dis.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/distutils.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dl.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/doctest.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/docxmlrpcserver.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dumbdbm.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dummy_thread.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/dummy_threading.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/easydialogs.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email-examples.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.charset.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.encoders.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.errors.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.generator.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.header.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.iterators.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.message.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.mime.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.parser.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/email.util.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/errno.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/exceptions.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fcntl.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/filecmp.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fileformats.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fileinput.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/filesys.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fl.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fm.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fnmatch.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/formatter.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fpectl.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fpformat.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/fractions.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/framework.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/frameworks.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ftplib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/functions.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/functools.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/future_builtins.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/gc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/gdbm.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/gensuitemodule.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/getopt.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/getpass.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/gettext.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/gl.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/glob.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/grp.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/gzip.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/hashlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/heapq.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/hmac.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/hotshot.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/htmllib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/htmlparser.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/httplib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/i18n.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ic.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/idle.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/imageop.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/imaplib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/imgfile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/imghdr.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/imp.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/importlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/imputil.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/inspect.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/internet.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/intro.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/io.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ipc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/itertools.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/jpeg.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/json.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/keyword.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/language.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/linecache.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/locale.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/logging.config.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/logging.handlers.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/logging.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mac.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/macos.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/macosa.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/macostools.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/macpath.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mailbox.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mailcap.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/markup.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/marshal.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/math.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/md5.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mhlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mimetools.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mimetypes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mimewriter.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mimify.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/miniaeframe.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/misc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mm.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mmap.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/modulefinder.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/modules.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/msilib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/msvcrt.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/multifile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/multiprocessing.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/mutex.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/netdata.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/netrc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/new.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/nis.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/nntplib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/numbers.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/numeric.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/operator.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/optparse.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/os.path.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/os.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ossaudiodev.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/othergui.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/parser.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pdb.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/persistence.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pickle.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pickletools.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pipes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pkgutil.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/platform.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/plistlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/popen2.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/poplib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/posix.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/posixfile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pprint.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/profile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pty.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pwd.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/py_compile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pyclbr.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pydoc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/pyexpat.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/python.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/queue.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/quopri.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/random.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/re.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/readline.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/repr.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/resource.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/restricted.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/rexec.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/rfc822.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/rlcompleter.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/robotparser.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/runpy.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sched.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/scrolledtext.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/select.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sets.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sgi.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sgmllib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sha.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/shelve.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/shlex.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/shutil.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/signal.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/simplehttpserver.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/simplexmlrpcserver.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/site.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/smtpd.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/smtplib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sndhdr.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/socket.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/socketserver.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/someos.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/spwd.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sqlite3.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ssl.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/stat.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/statvfs.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/stdtypes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/string.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/stringio.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/stringprep.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/strings.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/struct.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/subprocess.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sun.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sunau.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sunaudio.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/symbol.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/symtable.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sys.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/sysconfig.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/syslog.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tabnanny.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tarfile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/telnetlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tempfile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/termios.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/test.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/textwrap.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/thread.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/threading.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/time.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/timeit.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tix.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tk.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tkinter.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/token.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tokenize.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/trace.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/traceback.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/ttk.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/tty.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/turtle.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/types.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/undoc.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/unicodedata.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/unittest.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/unix.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/urllib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/urllib2.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/urlparse.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/user.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/userdict.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/uu.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/uuid.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/warnings.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/wave.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/weakref.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/webbrowser.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/whichdb.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/windows.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/winsound.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/wsgiref.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xdrlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.dom.minidom.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.dom.pulldom.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.dom.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.etree.elementtree.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.sax.handler.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.sax.reader.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.sax.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xml.sax.utils.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/xmlrpclib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/zipfile.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/zipimport.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/library/zlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/license.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/compound_stmts.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/datamodel.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/executionmodel.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/expressions.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/grammar.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/introduction.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/lexical_analysis.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/simple_stmts.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/reference/toplevel_components.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/appetite.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/classes.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/controlflow.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/datastructures.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/errors.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/floatingpoint.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/inputoutput.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/interactive.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/interpreter.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/introduction.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/modules.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/stdlib.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/stdlib2.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/tutorial/whatnow.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/using/cmdline.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/using/index.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/using/mac.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/using/unix.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/using/windows.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.0.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.1.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.2.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.3.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.4.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.5.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.6.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/2.7.txt
+/Users/bird//Python.framework/Versions/2.7/Resources/English.lproj/Documentation/_sources/whatsnew/index.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10/tmp/awesome.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10/tmp/foo.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10/tmp/iamcool.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10/tmp/neat.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10/tmp/newplace/awesome.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10/tmp/something/awesome.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_10/tmp/thefourthfile.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_11/tmp/newplace/uncool.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_12/tmp/empty.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_12/tmp/ex12.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_13/tmp/ex12.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_13/tmp/ex13.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_13/tmp/one.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_13/tmp/three.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_13/tmp/two.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_15/tmp/ex12.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_15/tmp/ex13.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_15/tmp/ex14.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_15/tmp/ex15.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_15/tmp/uncool.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_16/tmp/bar.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_16/tmp/foo.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_17/file1.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_17/SOMEFILE.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_17/tmp/another_file.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_17/tmp/file2.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_18/SOMEFILE.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_18/text_filesALL.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_18/tmp/foo.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_18/tmp/newfile.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_18/tmp/oldfile.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_9/tmp/fizzle.txt
+/Users/bird//workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/tmp/iamcool.txt
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/some_other_file.txt
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/toolbelt-class-q3-2013.txt
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/toolbelt-class-q4-2013.txt
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/toolbelt-class-t1-2014.txt
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/toolbelt-class-t1-2015.txt
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/toolbelt-class-t2-2014.txt
+/Users/bird//workspace/davinci_coders_t2_2015/in_class/git_fork_practice/toolbelt-class-t2-2015.txt
+/Users/bird//workspace/davinci_coders_t2_2015/my_name.txt
+/Users/bird//workspace/davinci_coders_t2_2015/sweet_cow.txt
+/Users/bird//workspace/pivotal_ide_prefs/persistence/spec/fixtures/fake_repo/another_fake_preference.txt
+/Users/bird//workspace/pivotal_ide_prefs/persistence/spec/fixtures/fake_repo/fake_pref.txt
