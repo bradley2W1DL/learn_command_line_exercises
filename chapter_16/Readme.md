@@ -10,7 +10,8 @@ Alternative "english" ways of using the asterisk:
 
 >How big are is foo.txt?
 
-you could see by typing: `ls -l foo.txt` the size of the file will be listed in bytes just before the date.
+Not exactly sure what is meant here but, `ls -l foo.txt` will show the size of the file.  <br/>
+It will be listed in bytes just before the date that the file was last modified.
 
 >Can you output all the txt files in this directory?
 
